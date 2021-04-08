@@ -1,7 +1,7 @@
 footer
 {
   position: absolute;
-  bottom: -1400;
+  bottom: -1300;
   right: 0;
   left: 0;
   background: rgb(31, 4, 105);
@@ -66,4 +66,7 @@ footer
   text-transform: uppercase;
   opacity: .4;
   font-weight: 200;
+}
+.mt5{
+  margin-top: 10px;
 }

@@ -44,10 +44,3 @@ function logout(){
   firebase.auth().signOut();
   
 }
-document.getElementById('apply').innerHTML=window.location.www.google.com;
-  if(onclick="apply"){
-  
-  }else{
-
-  }
-
